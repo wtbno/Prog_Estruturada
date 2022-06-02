@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main()
-{
+{   
     char  login[10];
     char  senha[10];
 
